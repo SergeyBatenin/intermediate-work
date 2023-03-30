@@ -42,3 +42,12 @@
 блоке try-with-resources. Нужно бросить исключение, если работа с объектом
 типа счетчик была не в ресурсном try и/или ресурс остался открыт. Значение
 считать в ресурсе try, если при заведении животного заполнены все поля
+
+## Решение
+
+Задачи 1-5: [Linux](https://drive.google.com/file/d/1btzKFiu2-vWpLN3olQXT3v8ovvqlICVt/view?usp=share_link)
+
+Задача 6:
+![Diagram](https://i.postimg.cc/c4v7rp48/Class-Diagram.png)
+
+Задачи 7-12: [SQL](заглушка)
