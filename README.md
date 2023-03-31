@@ -32,6 +32,6 @@
 Задачи 1-5: [Linux](https://drive.google.com/file/d/1btzKFiu2-vWpLN3olQXT3v8ovvqlICVt/view?usp=share_link)
 
 Задача 6:
-![Diagram](https://i.postimg.cc/c4v7rp48/Class-Diagram.png)
+![Diagram](https://i.postimg.cc/pLmzFG5m/Class-Diagram.png)
 
 Задачи 7-12: [SQL](https://drive.google.com/file/d/1RpYz6Q9F004MB6iyzJTNUl0wSFfTDz4O/view?usp=share_link)
